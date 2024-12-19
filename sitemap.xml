@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nav8.top/categories/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
+    <loc>https://nav8.top/posts/</loc>
+    <lastmod>2024-12-19T16:09:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://nav8.top/posts/</loc>
+    <loc>https://nav8.top/</loc>
+    <lastmod>2024-12-19T16:09:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/categories/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -17,55 +21,11 @@
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://nav8.top/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://nav8.top/tags/%E9%80%9F%E8%AE%B0%E5%8D%95%E8%AF%8D/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>https://nav8.top/posts/burden/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/develop/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/dynamic/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/energetic/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/external/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/fatigue/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/internal/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://nav8.top/posts/upset/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/vary/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/vigorous/</loc>
-    <lastmod>2024-12-19T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/posts/weary/</loc>
     <lastmod>2024-12-19T00:00:00+00:00</lastmod>
   </url>
   <url>
