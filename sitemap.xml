@@ -2,27 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nav8.top/categories/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/posts/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/tags/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/categories/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/tags/%E9%80%9F%E8%AE%B0%E5%8D%95%E8%AF%8D/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/bacteria/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/chemical/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/clash/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/epidemic/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/exchange/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/infect/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/infectious/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/inject/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/invisible/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organ/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organic/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/physical/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/theme/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/transmission/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/transmit/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/virus/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/visible/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/vision/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/visual/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/widespread/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/</loc>
+    <lastmod>2024-12-22T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/posts/census/</loc>
@@ -102,14 +190,6 @@
   </url>
   <url>
     <loc>https://nav8.top/posts/viewpoint/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87/</loc>
-    <lastmod>2024-12-21T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/</loc>
     <lastmod>2024-12-21T00:00:00+00:00</lastmod>
   </url>
   <url>
