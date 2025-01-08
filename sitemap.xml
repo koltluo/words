@@ -2,27 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nav8.top/categories/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/posts/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/tags/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/categories/%E8%AF%8D%E6%A0%B9%E8%AF%8D%E7%BC%80/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/tags/%E9%80%9F%E8%AE%B0%E5%8D%95%E8%AF%8D/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/arrange/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/bankrupt/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/consume/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/consumer/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/consumption/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/debt/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/lead/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/loan/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/manufacture/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/mortgage/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organisation/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organise/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organization/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/organize/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/retail/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/stock/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/swallow/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/transaction/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/transit/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/posts/transition/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/</loc>
+    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://nav8.top/posts/artificial/</loc>
@@ -102,14 +190,6 @@
   </url>
   <url>
     <loc>https://nav8.top/posts/threaten/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E6%B1%87/</loc>
-    <lastmod>2025-01-04T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://nav8.top/tags/%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D/</loc>
     <lastmod>2025-01-04T00:00:00+00:00</lastmod>
   </url>
   <url>
